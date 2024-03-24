@@ -1,0 +1,29 @@
+F:\AbstractFactory\AbstractFactory\obj\Debug\net8.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+F:\AbstractFactory\AbstractFactory\obj\Debug\net8.0\AbstractFactory.AssemblyInfoInputs.cache
+F:\AbstractFactory\AbstractFactory\obj\Debug\net8.0\AbstractFactory.AssemblyInfo.cs
+F:\AbstractFactory\AbstractFactory\obj\Debug\net8.0\AbstractFactory.csproj.CoreCompileInputs.cache
+F:\AbstractFactory\AbstractFactory\bin\Debug\net8.0\AbstractFactory.exe
+F:\AbstractFactory\AbstractFactory\bin\Debug\net8.0\AbstractFactory.deps.json
+F:\AbstractFactory\AbstractFactory\bin\Debug\net8.0\AbstractFactory.runtimeconfig.json
+F:\AbstractFactory\AbstractFactory\bin\Debug\net8.0\AbstractFactory.dll
+F:\AbstractFactory\AbstractFactory\bin\Debug\net8.0\AbstractFactory.pdb
+F:\AbstractFactory\AbstractFactory\obj\Debug\net8.0\AbstractFactory.dll
+F:\AbstractFactory\AbstractFactory\obj\Debug\net8.0\refint\AbstractFactory.dll
+F:\AbstractFactory\AbstractFactory\obj\Debug\net8.0\AbstractFactory.pdb
+F:\AbstractFactory\AbstractFactory\obj\Debug\net8.0\AbstractFactory.genruntimeconfig.cache
+F:\AbstractFactory\AbstractFactory\obj\Debug\net8.0\ref\AbstractFactory.dll
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Mẫu thiết kế\Demo pattern\AbstractFactory-demo\AbstractFactory\bin\Debug\net8.0\AbstractFactory.exe
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Mẫu thiết kế\Demo pattern\AbstractFactory-demo\AbstractFactory\bin\Debug\net8.0\AbstractFactory.deps.json
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Mẫu thiết kế\Demo pattern\AbstractFactory-demo\AbstractFactory\bin\Debug\net8.0\AbstractFactory.runtimeconfig.json
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Mẫu thiết kế\Demo pattern\AbstractFactory-demo\AbstractFactory\bin\Debug\net8.0\AbstractFactory.dll
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Mẫu thiết kế\Demo pattern\AbstractFactory-demo\AbstractFactory\bin\Debug\net8.0\AbstractFactory.pdb
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Mẫu thiết kế\Demo pattern\AbstractFactory-demo\AbstractFactory\obj\Debug\net8.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Mẫu thiết kế\Demo pattern\AbstractFactory-demo\AbstractFactory\obj\Debug\net8.0\AbstractFactory.AssemblyInfoInputs.cache
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Mẫu thiết kế\Demo pattern\AbstractFactory-demo\AbstractFactory\obj\Debug\net8.0\AbstractFactory.AssemblyInfo.cs
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Mẫu thiết kế\Demo pattern\AbstractFactory-demo\AbstractFactory\obj\Debug\net8.0\AbstractFactory.csproj.CoreCompileInputs.cache
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Mẫu thiết kế\Demo pattern\AbstractFactory-demo\AbstractFactory\obj\Debug\net8.0\AbstractFactory.sourcelink.json
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Mẫu thiết kế\Demo pattern\AbstractFactory-demo\AbstractFactory\obj\Debug\net8.0\AbstractFactory.dll
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Mẫu thiết kế\Demo pattern\AbstractFactory-demo\AbstractFactory\obj\Debug\net8.0\refint\AbstractFactory.dll
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Mẫu thiết kế\Demo pattern\AbstractFactory-demo\AbstractFactory\obj\Debug\net8.0\AbstractFactory.pdb
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Mẫu thiết kế\Demo pattern\AbstractFactory-demo\AbstractFactory\obj\Debug\net8.0\AbstractFactory.genruntimeconfig.cache
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Mẫu thiết kế\Demo pattern\AbstractFactory-demo\AbstractFactory\obj\Debug\net8.0\ref\AbstractFactory.dll

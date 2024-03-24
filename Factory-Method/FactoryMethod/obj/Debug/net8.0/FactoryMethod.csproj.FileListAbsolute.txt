@@ -1,0 +1,29 @@
+F:\SE401\FactoryMethod\FactoryMethod\bin\Debug\net8.0\FactoryMethod.exe
+F:\SE401\FactoryMethod\FactoryMethod\bin\Debug\net8.0\FactoryMethod.deps.json
+F:\SE401\FactoryMethod\FactoryMethod\bin\Debug\net8.0\FactoryMethod.runtimeconfig.json
+F:\SE401\FactoryMethod\FactoryMethod\bin\Debug\net8.0\FactoryMethod.dll
+F:\SE401\FactoryMethod\FactoryMethod\bin\Debug\net8.0\FactoryMethod.pdb
+F:\SE401\FactoryMethod\FactoryMethod\obj\Debug\net8.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+F:\SE401\FactoryMethod\FactoryMethod\obj\Debug\net8.0\FactoryMethod.AssemblyInfoInputs.cache
+F:\SE401\FactoryMethod\FactoryMethod\obj\Debug\net8.0\FactoryMethod.AssemblyInfo.cs
+F:\SE401\FactoryMethod\FactoryMethod\obj\Debug\net8.0\FactoryMethod.csproj.CoreCompileInputs.cache
+F:\SE401\FactoryMethod\FactoryMethod\obj\Debug\net8.0\FactoryMethod.dll
+F:\SE401\FactoryMethod\FactoryMethod\obj\Debug\net8.0\refint\FactoryMethod.dll
+F:\SE401\FactoryMethod\FactoryMethod\obj\Debug\net8.0\FactoryMethod.pdb
+F:\SE401\FactoryMethod\FactoryMethod\obj\Debug\net8.0\FactoryMethod.genruntimeconfig.cache
+F:\SE401\FactoryMethod\FactoryMethod\obj\Debug\net8.0\ref\FactoryMethod.dll
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Mẫu thiết kế\Demo pattern\Factory-Method\FactoryMethod\bin\Debug\net8.0\FactoryMethod.exe
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Mẫu thiết kế\Demo pattern\Factory-Method\FactoryMethod\bin\Debug\net8.0\FactoryMethod.deps.json
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Mẫu thiết kế\Demo pattern\Factory-Method\FactoryMethod\bin\Debug\net8.0\FactoryMethod.runtimeconfig.json
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Mẫu thiết kế\Demo pattern\Factory-Method\FactoryMethod\bin\Debug\net8.0\FactoryMethod.dll
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Mẫu thiết kế\Demo pattern\Factory-Method\FactoryMethod\bin\Debug\net8.0\FactoryMethod.pdb
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Mẫu thiết kế\Demo pattern\Factory-Method\FactoryMethod\obj\Debug\net8.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Mẫu thiết kế\Demo pattern\Factory-Method\FactoryMethod\obj\Debug\net8.0\FactoryMethod.AssemblyInfoInputs.cache
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Mẫu thiết kế\Demo pattern\Factory-Method\FactoryMethod\obj\Debug\net8.0\FactoryMethod.AssemblyInfo.cs
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Mẫu thiết kế\Demo pattern\Factory-Method\FactoryMethod\obj\Debug\net8.0\FactoryMethod.csproj.CoreCompileInputs.cache
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Mẫu thiết kế\Demo pattern\Factory-Method\FactoryMethod\obj\Debug\net8.0\FactoryMethod.sourcelink.json
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Mẫu thiết kế\Demo pattern\Factory-Method\FactoryMethod\obj\Debug\net8.0\FactoryMethod.dll
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Mẫu thiết kế\Demo pattern\Factory-Method\FactoryMethod\obj\Debug\net8.0\refint\FactoryMethod.dll
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Mẫu thiết kế\Demo pattern\Factory-Method\FactoryMethod\obj\Debug\net8.0\FactoryMethod.pdb
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Mẫu thiết kế\Demo pattern\Factory-Method\FactoryMethod\obj\Debug\net8.0\FactoryMethod.genruntimeconfig.cache
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Mẫu thiết kế\Demo pattern\Factory-Method\FactoryMethod\obj\Debug\net8.0\ref\FactoryMethod.dll

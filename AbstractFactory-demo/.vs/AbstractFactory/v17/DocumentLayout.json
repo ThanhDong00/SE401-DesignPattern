@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\AbstractFactory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2795CB5-750B-403D-914E-AC6F411EADD8}|AbstractFactory\\AbstractFactory.csproj|f:\\abstractfactory\\abstractfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2795CB5-750B-403D-914E-AC6F411EADD8}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2795CB5-750B-403D-914E-AC6F411EADD8}|AbstractFactory\\AbstractFactory.csproj|f:\\abstractfactory\\abstractfactory\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2795CB5-750B-403D-914E-AC6F411EADD8}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2795CB5-750B-403D-914E-AC6F411EADD8}|AbstractFactory\\AbstractFactory.csproj|f:\\abstractfactory\\abstractfactory\\weaponfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2795CB5-750B-403D-914E-AC6F411EADD8}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\weaponfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2795CB5-750B-403D-914E-AC6F411EADD8}|AbstractFactory\\AbstractFactory.csproj|f:\\abstractfactory\\abstractfactory\\vehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2795CB5-750B-403D-914E-AC6F411EADD8}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\vehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2795CB5-750B-403D-914E-AC6F411EADD8}|AbstractFactory\\AbstractFactory.csproj|f:\\abstractfactory\\abstractfactory\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2795CB5-750B-403D-914E-AC6F411EADD8}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2795CB5-750B-403D-914E-AC6F411EADD8}|AbstractFactory\\AbstractFactory.csproj|f:\\abstractfactory\\abstractfactory\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2795CB5-750B-403D-914E-AC6F411EADD8}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Application.cs",
+              "DocumentMoniker": "F:\\AbstractFactory\\AbstractFactory\\Application.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Application.cs",
+              "ToolTip": "F:\\AbstractFactory\\AbstractFactory\\Application.cs",
+              "RelativeToolTip": "AbstractFactory\\Application.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T04:27:51.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\AbstractFactory\\AbstractFactory\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Program.cs",
+              "ToolTip": "F:\\AbstractFactory\\AbstractFactory\\Program.cs",
+              "RelativeToolTip": "AbstractFactory\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T04:25:28.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VehicleFactory.cs",
+              "DocumentMoniker": "F:\\AbstractFactory\\AbstractFactory\\VehicleFactory.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\VehicleFactory.cs",
+              "ToolTip": "F:\\AbstractFactory\\AbstractFactory\\VehicleFactory.cs",
+              "RelativeToolTip": "AbstractFactory\\VehicleFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T04:20:40.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeaponFactory.cs",
+              "DocumentMoniker": "F:\\AbstractFactory\\AbstractFactory\\WeaponFactory.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\WeaponFactory.cs",
+              "ToolTip": "F:\\AbstractFactory\\AbstractFactory\\WeaponFactory.cs",
+              "RelativeToolTip": "AbstractFactory\\WeaponFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T04:09:48.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "F:\\AbstractFactory\\AbstractFactory\\Vehicle.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Vehicle.cs",
+              "ToolTip": "F:\\AbstractFactory\\AbstractFactory\\Vehicle.cs",
+              "RelativeToolTip": "AbstractFactory\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T04:02:56.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "F:\\AbstractFactory\\AbstractFactory\\Weapon.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Weapon.cs",
+              "ToolTip": "F:\\AbstractFactory\\AbstractFactory\\Weapon.cs",
+              "RelativeToolTip": "AbstractFactory\\Weapon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T03:51:09.85Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
