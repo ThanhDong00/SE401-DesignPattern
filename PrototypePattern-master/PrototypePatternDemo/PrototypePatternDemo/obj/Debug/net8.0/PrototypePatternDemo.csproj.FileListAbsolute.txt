@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\PrototypePatternDemo\PrototypePatternDemo\bin\Debug\net8.0\PrototypePatternDemo.exe
+C:\Users\lenovo\source\repos\PrototypePatternDemo\PrototypePatternDemo\bin\Debug\net8.0\PrototypePatternDemo.deps.json
+C:\Users\lenovo\source\repos\PrototypePatternDemo\PrototypePatternDemo\bin\Debug\net8.0\PrototypePatternDemo.runtimeconfig.json
+C:\Users\lenovo\source\repos\PrototypePatternDemo\PrototypePatternDemo\bin\Debug\net8.0\PrototypePatternDemo.dll
+C:\Users\lenovo\source\repos\PrototypePatternDemo\PrototypePatternDemo\bin\Debug\net8.0\PrototypePatternDemo.pdb
+C:\Users\lenovo\source\repos\PrototypePatternDemo\PrototypePatternDemo\obj\Debug\net8.0\PrototypePatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\PrototypePatternDemo\PrototypePatternDemo\obj\Debug\net8.0\PrototypePatternDemo.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\PrototypePatternDemo\PrototypePatternDemo\obj\Debug\net8.0\PrototypePatternDemo.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\PrototypePatternDemo\PrototypePatternDemo\obj\Debug\net8.0\PrototypePatternDemo.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\PrototypePatternDemo\PrototypePatternDemo\obj\Debug\net8.0\PrototypePatternDemo.dll
+C:\Users\lenovo\source\repos\PrototypePatternDemo\PrototypePatternDemo\obj\Debug\net8.0\refint\PrototypePatternDemo.dll
+C:\Users\lenovo\source\repos\PrototypePatternDemo\PrototypePatternDemo\obj\Debug\net8.0\PrototypePatternDemo.pdb
+C:\Users\lenovo\source\repos\PrototypePatternDemo\PrototypePatternDemo\obj\Debug\net8.0\PrototypePatternDemo.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\PrototypePatternDemo\PrototypePatternDemo\obj\Debug\net8.0\ref\PrototypePatternDemo.dll
