@@ -1,0 +1,29 @@
+C:\Users\lenovo\source\repos\ProxyPatternDemo\ProxyPatternDemo\bin\Debug\net8.0\ProxyPatternDemo.exe
+C:\Users\lenovo\source\repos\ProxyPatternDemo\ProxyPatternDemo\bin\Debug\net8.0\ProxyPatternDemo.deps.json
+C:\Users\lenovo\source\repos\ProxyPatternDemo\ProxyPatternDemo\bin\Debug\net8.0\ProxyPatternDemo.runtimeconfig.json
+C:\Users\lenovo\source\repos\ProxyPatternDemo\ProxyPatternDemo\bin\Debug\net8.0\ProxyPatternDemo.dll
+C:\Users\lenovo\source\repos\ProxyPatternDemo\ProxyPatternDemo\bin\Debug\net8.0\ProxyPatternDemo.pdb
+C:\Users\lenovo\source\repos\ProxyPatternDemo\ProxyPatternDemo\obj\Debug\net8.0\ProxyPatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\ProxyPatternDemo\ProxyPatternDemo\obj\Debug\net8.0\ProxyPatternDemo.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\ProxyPatternDemo\ProxyPatternDemo\obj\Debug\net8.0\ProxyPatternDemo.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\ProxyPatternDemo\ProxyPatternDemo\obj\Debug\net8.0\ProxyPatternDemo.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\ProxyPatternDemo\ProxyPatternDemo\obj\Debug\net8.0\ProxyPatternDemo.dll
+C:\Users\lenovo\source\repos\ProxyPatternDemo\ProxyPatternDemo\obj\Debug\net8.0\refint\ProxyPatternDemo.dll
+C:\Users\lenovo\source\repos\ProxyPatternDemo\ProxyPatternDemo\obj\Debug\net8.0\ProxyPatternDemo.pdb
+C:\Users\lenovo\source\repos\ProxyPatternDemo\ProxyPatternDemo\obj\Debug\net8.0\ProxyPatternDemo.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\ProxyPatternDemo\ProxyPatternDemo\obj\Debug\net8.0\ref\ProxyPatternDemo.dll
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Design Pattern\Demo pattern\ProxyPattern-master\ProxyPatternDemo\ProxyPatternDemo\bin\Debug\net8.0\ProxyPatternDemo.exe
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Design Pattern\Demo pattern\ProxyPattern-master\ProxyPatternDemo\ProxyPatternDemo\bin\Debug\net8.0\ProxyPatternDemo.deps.json
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Design Pattern\Demo pattern\ProxyPattern-master\ProxyPatternDemo\ProxyPatternDemo\bin\Debug\net8.0\ProxyPatternDemo.runtimeconfig.json
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Design Pattern\Demo pattern\ProxyPattern-master\ProxyPatternDemo\ProxyPatternDemo\bin\Debug\net8.0\ProxyPatternDemo.dll
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Design Pattern\Demo pattern\ProxyPattern-master\ProxyPatternDemo\ProxyPatternDemo\bin\Debug\net8.0\ProxyPatternDemo.pdb
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Design Pattern\Demo pattern\ProxyPattern-master\ProxyPatternDemo\ProxyPatternDemo\obj\Debug\net8.0\ProxyPatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Design Pattern\Demo pattern\ProxyPattern-master\ProxyPatternDemo\ProxyPatternDemo\obj\Debug\net8.0\ProxyPatternDemo.AssemblyInfoInputs.cache
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Design Pattern\Demo pattern\ProxyPattern-master\ProxyPatternDemo\ProxyPatternDemo\obj\Debug\net8.0\ProxyPatternDemo.AssemblyInfo.cs
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Design Pattern\Demo pattern\ProxyPattern-master\ProxyPatternDemo\ProxyPatternDemo\obj\Debug\net8.0\ProxyPatternDemo.csproj.CoreCompileInputs.cache
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Design Pattern\Demo pattern\ProxyPattern-master\ProxyPatternDemo\ProxyPatternDemo\obj\Debug\net8.0\ProxyPatternDemo.sourcelink.json
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Design Pattern\Demo pattern\ProxyPattern-master\ProxyPatternDemo\ProxyPatternDemo\obj\Debug\net8.0\ProxyPatternDemo.dll
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Design Pattern\Demo pattern\ProxyPattern-master\ProxyPatternDemo\ProxyPatternDemo\obj\Debug\net8.0\refint\ProxyPatternDemo.dll
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Design Pattern\Demo pattern\ProxyPattern-master\ProxyPatternDemo\ProxyPatternDemo\obj\Debug\net8.0\ProxyPatternDemo.pdb
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Design Pattern\Demo pattern\ProxyPattern-master\ProxyPatternDemo\ProxyPatternDemo\obj\Debug\net8.0\ProxyPatternDemo.genruntimeconfig.cache
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Design Pattern\Demo pattern\ProxyPattern-master\ProxyPatternDemo\ProxyPatternDemo\obj\Debug\net8.0\ref\ProxyPatternDemo.dll
