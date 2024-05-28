@@ -12,3 +12,18 @@ C:\Users\lenovo\source\repos\StrategyPattern\StrategyPattern\obj\Debug\net8.0\re
 C:\Users\lenovo\source\repos\StrategyPattern\StrategyPattern\obj\Debug\net8.0\StrategyPattern.pdb
 C:\Users\lenovo\source\repos\StrategyPattern\StrategyPattern\obj\Debug\net8.0\StrategyPattern.genruntimeconfig.cache
 C:\Users\lenovo\source\repos\StrategyPattern\StrategyPattern\obj\Debug\net8.0\ref\StrategyPattern.dll
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Design Pattern\Demo pattern\StrategyPattern-master\StrategyPattern\StrategyPattern\bin\Debug\net8.0\StrategyPattern.exe
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Design Pattern\Demo pattern\StrategyPattern-master\StrategyPattern\StrategyPattern\bin\Debug\net8.0\StrategyPattern.deps.json
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Design Pattern\Demo pattern\StrategyPattern-master\StrategyPattern\StrategyPattern\bin\Debug\net8.0\StrategyPattern.runtimeconfig.json
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Design Pattern\Demo pattern\StrategyPattern-master\StrategyPattern\StrategyPattern\bin\Debug\net8.0\StrategyPattern.dll
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Design Pattern\Demo pattern\StrategyPattern-master\StrategyPattern\StrategyPattern\bin\Debug\net8.0\StrategyPattern.pdb
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Design Pattern\Demo pattern\StrategyPattern-master\StrategyPattern\StrategyPattern\obj\Debug\net8.0\StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Design Pattern\Demo pattern\StrategyPattern-master\StrategyPattern\StrategyPattern\obj\Debug\net8.0\StrategyPattern.AssemblyInfoInputs.cache
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Design Pattern\Demo pattern\StrategyPattern-master\StrategyPattern\StrategyPattern\obj\Debug\net8.0\StrategyPattern.AssemblyInfo.cs
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Design Pattern\Demo pattern\StrategyPattern-master\StrategyPattern\StrategyPattern\obj\Debug\net8.0\StrategyPattern.csproj.CoreCompileInputs.cache
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Design Pattern\Demo pattern\StrategyPattern-master\StrategyPattern\StrategyPattern\obj\Debug\net8.0\StrategyPattern.sourcelink.json
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Design Pattern\Demo pattern\StrategyPattern-master\StrategyPattern\StrategyPattern\obj\Debug\net8.0\StrategyPattern.dll
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Design Pattern\Demo pattern\StrategyPattern-master\StrategyPattern\StrategyPattern\obj\Debug\net8.0\refint\StrategyPattern.dll
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Design Pattern\Demo pattern\StrategyPattern-master\StrategyPattern\StrategyPattern\obj\Debug\net8.0\StrategyPattern.pdb
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Design Pattern\Demo pattern\StrategyPattern-master\StrategyPattern\StrategyPattern\obj\Debug\net8.0\StrategyPattern.genruntimeconfig.cache
+D:\1. Hoc Tap\1. UIT\2023-2024 Year3\term2\SE401.O22.PMCL - Design Pattern\Demo pattern\StrategyPattern-master\StrategyPattern\StrategyPattern\obj\Debug\net8.0\ref\StrategyPattern.dll

@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lenovo\\source\\repos\\StrategyPattern\\StrategyPattern\\StrategyPattern.csproj": {}
+    "D:\\1. Hoc Tap\\1. UIT\\2023-2024 Year3\\term2\\SE401.O22.PMCL - Design Pattern\\Demo pattern\\StrategyPattern-master\\StrategyPattern\\StrategyPattern\\StrategyPattern.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lenovo\\source\\repos\\StrategyPattern\\StrategyPattern\\StrategyPattern.csproj": {
+    "D:\\1. Hoc Tap\\1. UIT\\2023-2024 Year3\\term2\\SE401.O22.PMCL - Design Pattern\\Demo pattern\\StrategyPattern-master\\StrategyPattern\\StrategyPattern\\StrategyPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\StrategyPattern\\StrategyPattern\\StrategyPattern.csproj",
+        "projectUniqueName": "D:\\1. Hoc Tap\\1. UIT\\2023-2024 Year3\\term2\\SE401.O22.PMCL - Design Pattern\\Demo pattern\\StrategyPattern-master\\StrategyPattern\\StrategyPattern\\StrategyPattern.csproj",
         "projectName": "StrategyPattern",
-        "projectPath": "C:\\Users\\lenovo\\source\\repos\\StrategyPattern\\StrategyPattern\\StrategyPattern.csproj",
-        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo\\source\\repos\\StrategyPattern\\StrategyPattern\\obj\\",
+        "projectPath": "D:\\1. Hoc Tap\\1. UIT\\2023-2024 Year3\\term2\\SE401.O22.PMCL - Design Pattern\\Demo pattern\\StrategyPattern-master\\StrategyPattern\\StrategyPattern\\StrategyPattern.csproj",
+        "packagesPath": "C:\\Users\\thanh\\.nuget\\packages\\",
+        "outputPath": "D:\\1. Hoc Tap\\1. UIT\\2023-2024 Year3\\term2\\SE401.O22.PMCL - Design Pattern\\Demo pattern\\StrategyPattern-master\\StrategyPattern\\StrategyPattern\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\thanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -38,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -64,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
